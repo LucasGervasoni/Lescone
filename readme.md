@@ -5,6 +5,7 @@
 ![Lescone](image.png)
 
 
+> That was a project made to study SCSS concepts.
 
 
 ### Skills
